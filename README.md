@@ -23,4 +23,4 @@
 
 # TODO
 
-- [每日 TODO](https://www.notion.so/zhuling/6756ff3cf1204075bf137c2e327e603c#7f552f25625d477c9ccbb65d7c0b3062)
+- [每日 TODO](https://zhuling.notion.site/6756ff3cf1204075bf137c2e327e603c#7f552f25625d477c9ccbb65d7c0b3062)
