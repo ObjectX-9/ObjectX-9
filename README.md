@@ -8,8 +8,9 @@
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                                                                                                                                              |
 
 <div align=left>
-
 # 进行中
+
+优先级顺序
 
 - [JS 手写](https://github.com/zhuling904/handwriting_js)
 
@@ -18,6 +19,12 @@
 - [前端复习大纲](https://github.com/zhuling904/Front_end_knowledge_outline)
 
 - [前端资源](https://github.com/zhuling904/ResourceArrangement)
+
+- [个人网站完善](https://github.com/zhuling904/myweb)
+
+- [博客接口完善](https://github.com/zhuling904/myweb_backend)
+
+- [react demo 一个用来写一些react组件、动画demo的仓库](https://github.com/zhuling904/react_demo)
 
 <div align=left>
 
