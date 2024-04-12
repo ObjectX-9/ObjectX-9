@@ -9,6 +9,9 @@
 
 <div align=left>
 
+  # 指标
+![Personal 3D Metrics](./profile-3d-contrib/profile-night-green.svg)
+
   # 进行中
 
 优先级顺序
