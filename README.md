@@ -117,8 +117,6 @@
 
 <div align="center">
 
-### 🔥 热门项目 (按 Star 排序)
-
 <p align="center">
   <a href="https://github.com/ObjectX-9/nextjs-blog">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ObjectX-9&repo=nextjs-blog&theme=vue&show_owner=true" />
