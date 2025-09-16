@@ -1,59 +1,22 @@
-# �� Hi there, I'm ObjectX!
+# 👋🏻 Hi there, I'm ObjectX!
 
 # 个人简介
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=前端工程师+%7C+3年经验+%7C+Frontend+Engineer;图形编辑器开发+%7C+Graphics+Editor+Expert;生成式AI应用开发+%7C+GenAI+Application+Developer;前即设科技+%7C+JiShe+Technology;辽宁大学211+%7C+计算机科学与技术专业+%7C+22届)](https://git.io/typing-svg)
-
 <div align=center>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=ObjectX-9&color=blue&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/ObjectX-9?label=Followers&style=social)](https://github.com/ObjectX-9)
 
-| 📖 ObjectX📖<br />🎨 前端工程师 · 3 年经验 🎨<br />🏢 前北京即设科技有限公司 🏢<br />🎓 辽宁大学(211) · 计算机 · 22 届 🎓<br /><img alt="ObjectX-9" src="https://s21.ax1x.com/2024/06/14/pkdHeiQ.png" width=100 /><br /> [![Github Stars](https://img.shields.io/github/stars/ObjectX-9?color=faf408&label=github%20stars&logo=github)](https://github.com/ObjectX-9)<br />📧 [ling.zhu.904@gmail.com](mailto:ling.zhu.904@gmail.com)\|[📚 掘金](https://juejin.cn/user/3714595004887192)｜[⚙️ 个人网站](https://object-x.com.cn/) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ObjectX-9&theme=default) |
+
+| 📖 ObjectX📖<br />🎨 前端工程师 · 3 年经验 🎨<br />🏢 前北京即设科技有限公司 🏢<br />🎓 辽宁大学(211) · 计算机 · 22 届 🎓<br /><img alt="ObjectX-9" src="https://s21.ax1x.com/2024/06/14/pkdHeiQ.png" width=100 /><br />[![Github Stars](https://img.shields.io/github/stars/ObjectX-9?color=faf408&label=github%20stars&logo=github)](https://github.com/ObjectX-9)<br />[![GitHub followers](https://img.shields.io/github/followers/ObjectX-9?label=Followers&style=social)](https://github.com/ObjectX-9)<br />[📧邮箱](mailto:ling.zhu.904@gmail.com)\|[📚 掘金](https://juejin.cn/user/3714595004887192)｜[👨‍💻个人网站](https://object-x.com.cn/) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ObjectX-9&theme=default) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![GitHub Streak](https://github-profile-trophy.vercel.app/?username=ObjectX-9&row=2&column=3) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ObjectX-9&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
 |                                                              |                                                              |
 
 </div>
 
+# 指标
+![Personal 3D Metrics](./profile-3d-contrib/profile-green-animate.svg)
+# 领域 & 技能 & 尝试
 ---
-
-## 🚀 关于我
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-```javascript
-const ObjectX = {
-  name: "ObjectX",
-  role: "前端工程师",
-  experience: "3年开发经验",
-  company: "前北京即设科技有限公司",
-  education: "辽宁大学(211) · 计算机科学 · 22届",
-  email: "ling.zhu.904@gmail.com",
-
-  specialties: {
-    graphics: "图形编辑器开发 · 类Figma系统 · Canvas/SVG",
-    ai: "生成式AI应用 · LLM集成 · AI工作流引擎",
-    architecture: "DSL设计 · 数据层架构 · 性能优化",
-  },
-
-  technologies: {
-    frontend: ["React", "TypeScript", "JavaScript", "HTML5", "CSS3"],
-    graphics: ["Canvas", "SVG", "Skia", "CanvasKit", "图形学", "矩阵变换"],
-    ai: ["LLM", "RAG", "AI Agent", "Prompt Engineering", "生成式AI"],
-    tools: ["Vite", "Webpack", "Tailwind", "WebSocket", "DSL"],
-  },
-
-  currentProjects: [
-    "Wegic - 生成式AI建站平台",
-    "即时编辑器 - 类Figma图形编辑器",
-    "即时白板 - 实时协作白板",
-  ],
-
-  currentFocus: "AI驱动的前端开发模式探索",
-  motto: "用代码连接创意与技术，让AI赋能前端开发 🎨🤖",
-};
-```
 
 🎨 **图形编辑器开发**：深度参与类 Figma 系统开发，精通 Canvas/SVG 渲染与交互  
 🤖 **生成式 AI 开发**：负责 Wegic AI 建站平台，实现自然语言 →DSL→ 网站生成  
@@ -100,11 +63,11 @@ const ObjectX = {
 
 ---
 
-## 🏆 核心项目经历
+# 🏆 核心项目经历
 
 <div align="center">
 
-### 🌟 Wegic | 生成式 AI 建站平台
+## 🌟 Wegic | 生成式 AI 建站平台
 
 **2024.12 - 至今 | React + TS + LLM + DSL**
 
@@ -119,7 +82,7 @@ const ObjectX = {
 
 <div align="center">
 
-### 🎨 即时编辑器 | 类 Figma 图形编辑器
+## 🎨 即时编辑器 | 类 Figma 图形编辑器
 
 **2022.09 - 2024.12 | Canvas + SVG**
 
@@ -134,7 +97,7 @@ const ObjectX = {
 
 <div align="center">
 
-### 📋 即时白板 | 实时协作白板
+## 📋 即时白板 | 实时协作白板
 
 **2023.03 - 2024.01 | Canvas + SVG**
 
@@ -146,22 +109,6 @@ const ObjectX = {
 
 <div align=left>
 
-# 指标
-
-![Personal 3D Metrics](./profile-3d-contrib/profile-green-animate.svg)
-
----
-
-## 📊 GitHub 统计增强版
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ObjectX-9&theme=react-dark)
-
-</div>
-
----
-
 ## 🌟 我的开源项目
 
 <div align="center">
@@ -171,13 +118,12 @@ const ObjectX = {
 </div>
 
 <!-- 这里会自动显示按star数量排序的仓库 -->
-
-![Repo](https://github-readme-stats.vercel.app/api/pin/?username=ObjectX-9&repo=handwriting_js&theme=radical&show_owner=true)
-![Repo](https://github-readme-stats.vercel.app/api/pin/?username=ObjectX-9&repo=React&theme=radical&show_owner=true)
-![Repo](https://github-readme-stats.vercel.app/api/pin/?username=ObjectX-9&repo=Front_end_knowledge_outline&theme=radical&show_owner=true)
-![Repo](https://github-readme-stats.vercel.app/api/pin/?username=ObjectX-9&repo=ResourceArrangement&theme=radical&show_owner=true)
-![Repo](https://github-readme-stats.vercel.app/api/pin/?username=ObjectX-9&repo=myweb&theme=radical&show_owner=true)
+![Repo](https://github-readme-stats.vercel.app/api/pin/?username=ObjectX-9&repo=nextjs-blog&theme=radical&show_owner=true)
+![Repo](https://github-readme-stats.vercel.app/api/pin/?username=ObjectX-9&repo=objectx-cli&theme=radical&show_owner=true)
+![Repo](https://github-readme-stats.vercel.app/api/pin/?username=ObjectX-9&repo=socket-monitor&theme=radical&show_owner=true)
 ![Repo](https://github-readme-stats.vercel.app/api/pin/?username=ObjectX-9&repo=react_demo&theme=radical&show_owner=true)
+![Repo](https://github-readme-stats.vercel.app/api/pin/?username=ObjectX-9&repo=handwriting_js&theme=radical&show_owner=true)
+
 
 <div align="center">
 
