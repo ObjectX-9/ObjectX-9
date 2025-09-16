@@ -11,16 +11,22 @@
 
 </div>
 
-# 指标
+# 统计
 
-![Personal 3D Metrics](./profile-3d-contrib/profile-green-animate.svg)
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ObjectX-9&theme=vue&bg_color=ffffff&color=4fc08d&line=4fc08d&point=4fc08d&area=true&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ObjectX-9&show_icons=true&theme=vue&hide_border=true&bg_color=ffffff)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ObjectX-9&theme=vue&hide_border=true&background=ffffff)
+
+</div>
 
 # 领域 & 技能 & 尝试
 
 🎨 **图形编辑器开发**：深度参与类 Figma 系统开发，精通 Canvas/SVG 渲染与交互  
 🤖 **生成式 AI 开发**：负责 Wegic AI 建站平台，实现自然语言 →DSL→ 网站生成  
 🏢 **前即设科技前端**：2022-至今，从图形编辑器到 AI 应用的全栈前端开发
-
 🔭 **技术探索**：AI 工作流引擎、Prompt 工程、RAG 技术的业务落地实践
 
 ## 🛠️ 技术栈
@@ -110,6 +116,9 @@
   <a href="https://github.com/ObjectX-9/nextjs-blog">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ObjectX-9&repo=nextjs-blog&theme=vue&show_owner=true" />
   </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/ObjectX-9/objectx-cli">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ObjectX-9&repo=objectx-cli&theme=vue&show_owner=true" />
   </a>
@@ -119,6 +128,9 @@
   <a href="https://github.com/ObjectX-9/socket-monitor">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ObjectX-9&repo=socket-monitor&theme=vue&show_owner=true" />
   </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/ObjectX-9/react_demo">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ObjectX-9&repo=react_demo&theme=vue&show_owner=true" />
   </a>
