@@ -73,8 +73,6 @@
 🧠 **AI 创新**：实现自然语言 →AI 判定 →DSL 生成 → 网站构建的完整流程  
 🌐 **体验地址**：[https://wegic.ai](https://wegic.ai)
 
----
-
 <div align="center">
 
 ## 🎨 即时编辑器 | 类 Figma 图形编辑器
@@ -87,8 +85,6 @@
 ⚡ **深度参与**：负责基础逻辑、节点渲染、模式切换等核心功能开发  
 🏗️ **架构设计**：参与项目重构，负责数据层搭建、图形节点树实现  
 🌐 **体验地址**：[https://js.design](https://js.design)
-
----
 
 <div align="center">
 
