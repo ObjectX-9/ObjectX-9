@@ -3,8 +3,6 @@
 # 个人简介
 
 <div align=center>
-![Profile Views](https://komarev.com/ghpvc/?username=ObjectX-9&color=blue&style=flat-square&label=Profile+Views)
-
 
 | 📖 ObjectX📖<br />🎨 前端工程师 · 3 年经验 🎨<br />🏢 前北京即设科技有限公司 🏢<br />🎓 辽宁大学(211) · 计算机 · 22 届 🎓<br /><img alt="ObjectX-9" src="https://s21.ax1x.com/2024/06/14/pkdHeiQ.png" width=100 /><br />[![Github Stars](https://img.shields.io/github/stars/ObjectX-9?color=faf408&label=github%20stars&logo=github)](https://github.com/ObjectX-9)<br />[![GitHub followers](https://img.shields.io/github/followers/ObjectX-9?label=Followers&style=social)](https://github.com/ObjectX-9)<br />[📧邮箱](mailto:ling.zhu.904@gmail.com)\|[📚 掘金](https://juejin.cn/user/3714595004887192)｜[👨‍💻个人网站](https://object-x.com.cn/) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ObjectX-9&theme=default) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -16,7 +14,7 @@
 # 指标
 ![Personal 3D Metrics](./profile-3d-contrib/profile-green-animate.svg)
 # 领域 & 技能 & 尝试
----
+
 
 🎨 **图形编辑器开发**：深度参与类 Figma 系统开发，精通 Canvas/SVG 渲染与交互  
 🤖 **生成式 AI 开发**：负责 Wegic AI 建站平台，实现自然语言 →DSL→ 网站生成  
@@ -24,7 +22,6 @@
 
 🔭 **技术探索**：AI 工作流引擎、Prompt 工程、RAG 技术的业务落地实践
 
----
 
 ## 🛠️ 技术栈
 
@@ -60,8 +57,6 @@
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
 </div>
-
----
 
 # 🏆 核心项目经历
 
@@ -117,7 +112,6 @@
 
 </div>
 
-<!-- 这里会自动显示按star数量排序的仓库 -->
 ![Repo](https://github-readme-stats.vercel.app/api/pin/?username=ObjectX-9&repo=nextjs-blog&theme=radical&show_owner=true)
 ![Repo](https://github-readme-stats.vercel.app/api/pin/?username=ObjectX-9&repo=objectx-cli&theme=radical&show_owner=true)
 ![Repo](https://github-readme-stats.vercel.app/api/pin/?username=ObjectX-9&repo=socket-monitor&theme=radical&show_owner=true)
@@ -134,7 +128,7 @@
 
 </div>
 
----
+
 
 ## 💭 每日格言
 
@@ -144,7 +138,7 @@
 
 </div>
 
----
+
 
 ## 🎯 职业发展路径
 
@@ -154,7 +148,7 @@
 - [ ] **2025** 探索 AI+图形的深度融合，推动前端智能化发展
 - [ ] **未来** 成为 AI 驱动前端开发的技术专家
 
----
+
 
 <div align="center">
 
