@@ -18,7 +18,14 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ObjectX-9&theme=vue&bg_color=ffffff&color=4fc08d&line=4fc08d&point=4fc08d&area=true&hide_border=true)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ObjectX-9&show_icons=true&theme=vue&hide_border=true&bg_color=ffffff)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ObjectX-9&theme=vue&hide_border=true&background=ffffff)
+
+<!-- Programming Activity -->
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ObjectX-9&theme=vue)
+
+<!-- Productive Time -->
+
+![Productive time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ObjectX-9&theme=vue&utc_offset=8)
 
 </div>
 
